@@ -10,7 +10,7 @@ function Sidebar() {
         <Container>
             <WorkSpaceContainer>
                 <Name>
-                    Clevar
+                Clever Programmer
                 </Name>
                 <NewMessage>
                     <AddCircleOutlineIcon/>
